@@ -1,0 +1,11 @@
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\bin\Debug\netcoreapp3.0\console_application.exe
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\bin\Debug\netcoreapp3.0\console_application.deps.json
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\bin\Debug\netcoreapp3.0\console_application.runtimeconfig.json
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\bin\Debug\netcoreapp3.0\console_application.runtimeconfig.dev.json
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\bin\Debug\netcoreapp3.0\console_application.dll
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\bin\Debug\netcoreapp3.0\console_application.pdb
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\obj\Debug\netcoreapp3.0\console_application.csprojAssemblyReference.cache
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\obj\Debug\netcoreapp3.0\console_application.AssemblyInfoInputs.cache
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\obj\Debug\netcoreapp3.0\console_application.AssemblyInfo.cs
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\obj\Debug\netcoreapp3.0\console_application.dll
+C:\Users\mattd\Documents\c_sharp_stuff\console_application\obj\Debug\netcoreapp3.0\console_application.pdb
